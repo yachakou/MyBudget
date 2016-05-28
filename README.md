@@ -1,1 +1,2 @@
-# MyBudget
+This is MyBudjet App :)
+
